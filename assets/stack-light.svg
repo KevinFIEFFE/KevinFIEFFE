@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="742" height="440" viewBox="0 0 742 440" role="img" aria-label="Stack : RHEL, Linux, Ansible, Puppet, Control-M, Kubernetes, Terraform, Bash, Python, PowerShell, AWK, Astro, Netlify, OVH">
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+    <text x="0" y="57.0" font-size="14" fill="#656d76"><tspan fill="#cf222e">●</tspan> systèmes &amp; automatisation</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/>
+    <rect x="250" y="4" width="88" height="96" rx="10" fill="#cf222e" fill-opacity=".08" stroke="#cf222e" stroke-width="1.5"/>
+    <text x="259" y="22" font-size="11" fill="#656d76">1</text>
+    <text x="294.0" y="61" text-anchor="middle" font-size="32" font-weight="800" fill="#cf222e">Rh</text>
+    <text x="294.0" y="86" text-anchor="middle" font-size="11" fill="#1f2328">RHEL</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.08s" dur="0.4s" fill="freeze"/>
+    <rect x="350" y="4" width="88" height="96" rx="10" fill="#cf222e" fill-opacity=".08" stroke="#cf222e" stroke-width="1.5"/>
+    <text x="359" y="22" font-size="11" fill="#656d76">2</text>
+    <text x="394.0" y="61" text-anchor="middle" font-size="32" font-weight="800" fill="#cf222e">Lx</text>
+    <text x="394.0" y="86" text-anchor="middle" font-size="11" fill="#1f2328">Linux</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.16s" dur="0.4s" fill="freeze"/>
+    <rect x="450" y="4" width="88" height="96" rx="10" fill="#cf222e" fill-opacity=".08" stroke="#cf222e" stroke-width="1.5"/>
+    <text x="459" y="22" font-size="11" fill="#656d76">3</text>
+    <text x="494.0" y="61" text-anchor="middle" font-size="32" font-weight="800" fill="#cf222e">An</text>
+    <text x="494.0" y="86" text-anchor="middle" font-size="11" fill="#1f2328">Ansible</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.4s" fill="freeze"/>
+    <rect x="550" y="4" width="88" height="96" rx="10" fill="#cf222e" fill-opacity=".08" stroke="#cf222e" stroke-width="1.5"/>
+    <text x="559" y="22" font-size="11" fill="#656d76">4</text>
+    <text x="594.0" y="61" text-anchor="middle" font-size="32" font-weight="800" fill="#cf222e">Pp</text>
+    <text x="594.0" y="86" text-anchor="middle" font-size="11" fill="#1f2328">Puppet</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.32s" dur="0.4s" fill="freeze"/>
+    <rect x="650" y="4" width="88" height="96" rx="10" fill="#cf222e" fill-opacity=".08" stroke="#cf222e" stroke-width="1.5"/>
+    <text x="659" y="22" font-size="11" fill="#656d76">5</text>
+    <text x="694.0" y="61" text-anchor="middle" font-size="32" font-weight="800" fill="#cf222e">Cm</text>
+    <text x="694.0" y="86" text-anchor="middle" font-size="11" fill="#1f2328">Control-M</text>
+  </g>
+  <text x="0" y="169.0" font-size="14" fill="#656d76"><tspan fill="#8250df">●</tspan> conteneurs &amp; iac</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.4s" fill="freeze"/>
+    <rect x="250" y="116" width="88" height="96" rx="10" fill="#8250df" fill-opacity=".08" stroke="#8250df" stroke-width="1.5"/>
+    <text x="259" y="134" font-size="11" fill="#656d76">6</text>
+    <text x="294.0" y="173" text-anchor="middle" font-size="32" font-weight="800" fill="#8250df">K8</text>
+    <text x="294.0" y="198" text-anchor="middle" font-size="11" fill="#1f2328">Kubernetes</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.4s" fill="freeze"/>
+    <rect x="350" y="116" width="88" height="96" rx="10" fill="#8250df" fill-opacity=".08" stroke="#8250df" stroke-width="1.5"/>
+    <text x="359" y="134" font-size="11" fill="#656d76">7</text>
+    <text x="394.0" y="173" text-anchor="middle" font-size="32" font-weight="800" fill="#8250df">Tf</text>
+    <text x="394.0" y="198" text-anchor="middle" font-size="11" fill="#1f2328">Terraform</text>
+  </g>
+  <text x="0" y="281.0" font-size="14" fill="#656d76"><tspan fill="#1a7f37">●</tspan> scripting</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze"/>
+    <rect x="250" y="228" width="88" height="96" rx="10" fill="#1a7f37" fill-opacity=".08" stroke="#1a7f37" stroke-width="1.5"/>
+    <text x="259" y="246" font-size="11" fill="#656d76">8</text>
+    <text x="294.0" y="285" text-anchor="middle" font-size="32" font-weight="800" fill="#1a7f37">Sh</text>
+    <text x="294.0" y="310" text-anchor="middle" font-size="11" fill="#1f2328">Bash</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.64s" dur="0.4s" fill="freeze"/>
+    <rect x="350" y="228" width="88" height="96" rx="10" fill="#1a7f37" fill-opacity=".08" stroke="#1a7f37" stroke-width="1.5"/>
+    <text x="359" y="246" font-size="11" fill="#656d76">9</text>
+    <text x="394.0" y="285" text-anchor="middle" font-size="32" font-weight="800" fill="#1a7f37">Py</text>
+    <text x="394.0" y="310" text-anchor="middle" font-size="11" fill="#1f2328">Python</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.4s" fill="freeze"/>
+    <rect x="450" y="228" width="88" height="96" rx="10" fill="#1a7f37" fill-opacity=".08" stroke="#1a7f37" stroke-width="1.5"/>
+    <text x="459" y="246" font-size="11" fill="#656d76">10</text>
+    <text x="494.0" y="285" text-anchor="middle" font-size="32" font-weight="800" fill="#1a7f37">Ps</text>
+    <text x="494.0" y="310" text-anchor="middle" font-size="11" fill="#1f2328">PowerShell</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.4s" fill="freeze"/>
+    <rect x="550" y="228" width="88" height="96" rx="10" fill="#1a7f37" fill-opacity=".08" stroke="#1a7f37" stroke-width="1.5"/>
+    <text x="559" y="246" font-size="11" fill="#656d76">11</text>
+    <text x="594.0" y="285" text-anchor="middle" font-size="32" font-weight="800" fill="#1a7f37">Aw</text>
+    <text x="594.0" y="310" text-anchor="middle" font-size="11" fill="#1f2328">AWK</text>
+  </g>
+  <text x="0" y="393.0" font-size="14" fill="#656d76"><tspan fill="#0969da">●</tspan> web &amp; hébergement</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.4s" fill="freeze"/>
+    <rect x="250" y="340" width="88" height="96" rx="10" fill="#0969da" fill-opacity=".08" stroke="#0969da" stroke-width="1.5"/>
+    <text x="259" y="358" font-size="11" fill="#656d76">12</text>
+    <text x="294.0" y="397" text-anchor="middle" font-size="32" font-weight="800" fill="#0969da">As</text>
+    <text x="294.0" y="422" text-anchor="middle" font-size="11" fill="#1f2328">Astro</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.4s" fill="freeze"/>
+    <rect x="350" y="340" width="88" height="96" rx="10" fill="#0969da" fill-opacity=".08" stroke="#0969da" stroke-width="1.5"/>
+    <text x="359" y="358" font-size="11" fill="#656d76">13</text>
+    <text x="394.0" y="397" text-anchor="middle" font-size="32" font-weight="800" fill="#0969da">Nf</text>
+    <text x="394.0" y="422" text-anchor="middle" font-size="11" fill="#1f2328">Netlify</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.4s" fill="freeze"/>
+    <rect x="450" y="340" width="88" height="96" rx="10" fill="#0969da" fill-opacity=".08" stroke="#0969da" stroke-width="1.5"/>
+    <text x="459" y="358" font-size="11" fill="#656d76">14</text>
+    <text x="494.0" y="397" text-anchor="middle" font-size="32" font-weight="800" fill="#0969da">Ov</text>
+    <text x="494.0" y="422" text-anchor="middle" font-size="11" fill="#1f2328">OVH</text>
+  </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="52" viewBox="0 0 880 52" role="img" aria-label="~/stack/">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#1a7f37"/>
+      <stop offset="0.45" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#0969da" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text x="2" y="30" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="20" font-weight="700">
+    <tspan fill="#1a7f37">❯</tspan><tspan fill="#656d76" font-weight="400"> ls </tspan><tspan fill="#1f2328">~/stack/</tspan>
+  </text>
+  <rect x="2" y="42" width="876" height="2" rx="1" fill="url(#g)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Linux Scripts">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#0f5323"/></linearGradient></defs>
+  <rect width="72" height="72" rx="18" fill="url(#b)"/>
+  <rect x="1" y="1" width="70" height="70" rx="17" fill="none" stroke="#ffffff" stroke-opacity=".2"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="14" y="17" width="44" height="38" rx="6"/>
+    <line x1="14" y1="26" x2="58" y2="26"/>
+    <polyline points="22,34 28,39 22,44"/>
+    <line x1="32" y1="45" x2="42" y2="45"/>
+  </g>
+</svg>
